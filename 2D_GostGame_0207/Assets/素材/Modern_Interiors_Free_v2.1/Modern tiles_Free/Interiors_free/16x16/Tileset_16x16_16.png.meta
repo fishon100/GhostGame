@@ -1,7 +1,286 @@
 fileFormatVersion: 2
 guid: 517ef322f74c85f4f830229eeef44300
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8567405966485533448
+    second: 3
+  - first:
+      213: 2064824489414096762
+    second: Tileset_16x16_16_1
+  - first:
+      213: -7587516044358997750
+    second: Tileset_16x16_16_2
+  - first:
+      213: -2498634403173858077
+    second: Tileset_16x16_16_3
+  - first:
+      213: -5418982067954456439
+    second: Tileset_16x16_16_4
+  - first:
+      213: 6065556557333048819
+    second: Tileset_16x16_16_5
+  - first:
+      213: 7107144936410148881
+    second: Tileset_16x16_16_6
+  - first:
+      213: -3373175752044471440
+    second: Tileset_16x16_16_7
+  - first:
+      213: 7593046374205615813
+    second: Tileset_16x16_16_8
+  - first:
+      213: 884113421771999387
+    second: Tileset_16x16_16_9
+  - first:
+      213: 3766324752515960095
+    second: Tileset_16x16_16_10
+  - first:
+      213: -1664413355258573678
+    second: Tileset_16x16_16_11
+  - first:
+      213: -9196093912981279438
+    second: Tileset_16x16_16_12
+  - first:
+      213: -8207347543029651767
+    second: Tileset_16x16_16_13
+  - first:
+      213: 4489299840897376009
+    second: Tileset_16x16_16_14
+  - first:
+      213: 1998626513978512552
+    second: Tileset_16x16_16_15
+  - first:
+      213: -2834797071518338864
+    second: Tileset_16x16_16_16
+  - first:
+      213: 2700088017057604225
+    second: Tileset_16x16_16_17
+  - first:
+      213: -7802240353384796783
+    second: Tileset_16x16_16_18
+  - first:
+      213: -927587201487813353
+    second: Tileset_16x16_16_19
+  - first:
+      213: -5444742958324901085
+    second: Tileset_16x16_16_20
+  - first:
+      213: -2798518415888025270
+    second: Tileset_16x16_16_21
+  - first:
+      213: -7942050136708168108
+    second: Tileset_16x16_16_22
+  - first:
+      213: -8568146012488239606
+    second: Tileset_16x16_16_23
+  - first:
+      213: -1710238788523201227
+    second: Tileset_16x16_16_24
+  - first:
+      213: -4414028452926924668
+    second: Tileset_16x16_16_25
+  - first:
+      213: -568533670810129250
+    second: Tileset_16x16_16_26
+  - first:
+      213: 7832381915068923119
+    second: Tileset_16x16_16_27
+  - first:
+      213: 2404592607088483275
+    second: Tileset_16x16_16_28
+  - first:
+      213: 8285383908466061608
+    second: Tileset_16x16_16_29
+  - first:
+      213: -621252058145172034
+    second: Tileset_16x16_16_30
+  - first:
+      213: -8822562976895840524
+    second: Tileset_16x16_16_31
+  - first:
+      213: 4333228279269473126
+    second: Tileset_16x16_16_32
+  - first:
+      213: 6954824114601517121
+    second: Tileset_16x16_16_33
+  - first:
+      213: -2028955730925221265
+    second: Tileset_16x16_16_34
+  - first:
+      213: 8762160501081587611
+    second: Tileset_16x16_16_35
+  - first:
+      213: -3278721737936467227
+    second: Tileset_16x16_16_36
+  - first:
+      213: 8200007272247690593
+    second: Tileset_16x16_16_37
+  - first:
+      213: -9101059241316030843
+    second: Tileset_16x16_16_38
+  - first:
+      213: 1544643938666466375
+    second: Tileset_16x16_16_39
+  - first:
+      213: -6660493165148264519
+    second: Tileset_16x16_16_40
+  - first:
+      213: 1355005289720197768
+    second: Tileset_16x16_16_41
+  - first:
+      213: 7660079369888785482
+    second: Tileset_16x16_16_42
+  - first:
+      213: -313792359671989389
+    second: Tileset_16x16_16_43
+  - first:
+      213: -6917622976634841847
+    second: Tileset_16x16_16_44
+  - first:
+      213: -7066802367979077465
+    second: Tileset_16x16_16_45
+  - first:
+      213: 2018670259016522318
+    second: Tileset_16x16_16_46
+  - first:
+      213: 3164444534696266258
+    second: Tileset_16x16_16_47
+  - first:
+      213: -6896328748717285601
+    second: Tileset_16x16_16_48
+  - first:
+      213: -906745126711355853
+    second: Tileset_16x16_16_49
+  - first:
+      213: 7871477283018646758
+    second: Tileset_16x16_16_50
+  - first:
+      213: -1517807184970876282
+    second: Tileset_16x16_16_51
+  - first:
+      213: 8325714394273468933
+    second: Tileset_16x16_16_52
+  - first:
+      213: 7897908370462194206
+    second: Tileset_16x16_16_53
+  - first:
+      213: 3960267677232598275
+    second: Tileset_16x16_16_54
+  - first:
+      213: -857828149928014215
+    second: Tileset_16x16_16_55
+  - first:
+      213: -4782719936820940840
+    second: Tileset_16x16_16_56
+  - first:
+      213: -7101936751471480722
+    second: Tileset_16x16_16_57
+  - first:
+      213: 2784852121949557518
+    second: Tileset_16x16_16_58
+  - first:
+      213: 595559640303831246
+    second: Tileset_16x16_16_59
+  - first:
+      213: 1743113556245781784
+    second: Tileset_16x16_16_60
+  - first:
+      213: -8672579198587326149
+    second: Tileset_16x16_16_61
+  - first:
+      213: 3164579655928096327
+    second: Tileset_16x16_16_62
+  - first:
+      213: -8138904117610854296
+    second: Tileset_16x16_16_63
+  - first:
+      213: 4877023677425411861
+    second: Tileset_16x16_16_64
+  - first:
+      213: 7758211358632839821
+    second: Tileset_16x16_16_65
+  - first:
+      213: -287849119218237402
+    second: Tileset_16x16_16_66
+  - first:
+      213: -8955881051669336004
+    second: Tileset_16x16_16_67
+  - first:
+      213: 8274615798483995048
+    second: Tileset_16x16_16_68
+  - first:
+      213: 853053393610927684
+    second: Tileset_16x16_16_69
+  - first:
+      213: 6122807061290295079
+    second: Tileset_16x16_16_70
+  - first:
+      213: 5503084354687132631
+    second: Tileset_16x16_16_71
+  - first:
+      213: 2961334537226549641
+    second: Tileset_16x16_16_72
+  - first:
+      213: -5134228374742779741
+    second: Tileset_16x16_16_73
+  - first:
+      213: -5767718443662191008
+    second: Tileset_16x16_16_74
+  - first:
+      213: -8469993237285933276
+    second: Tileset_16x16_16_75
+  - first:
+      213: -7094558346600195872
+    second: Tileset_16x16_16_76
+  - first:
+      213: -7843345813956669545
+    second: Tileset_16x16_16_77
+  - first:
+      213: 6049527655017343904
+    second: Tileset_16x16_16_78
+  - first:
+      213: 8599420504173966802
+    second: Tileset_16x16_16_79
+  - first:
+      213: 6346100012396005961
+    second: Tileset_16x16_16_80
+  - first:
+      213: 2479802293128505261
+    second: Tileset_16x16_16_81
+  - first:
+      213: 4265933745084547653
+    second: Tileset_16x16_16_82
+  - first:
+      213: 7076836727483869237
+    second: Tileset_16x16_16_83
+  - first:
+      213: 3095428180140697856
+    second: Tileset_16x16_16_84
+  - first:
+      213: -4619362663911915180
+    second: Tileset_16x16_16_85
+  - first:
+      213: -1212301020171230754
+    second: Tileset_16x16_16_86
+  - first:
+      213: -4077096884442338652
+    second: Tileset_16x16_16_87
+  - first:
+      213: -568378912880721712
+    second: Tileset_16x16_16_88
+  - first:
+      213: -6404360272351995764
+    second: Tileset_16x16_16_89
+  - first:
+      213: 2871268161860237931
+    second: Tileset_16x16_16_90
+  - first:
+      213: 571573931085381011
+    second: Tileset_16x16_16_91
+  - first:
+      213: 5894248508101756181
+    second: Tileset_16x16_16_92
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,12 +319,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -71,9 +350,66 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 96
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc41116aa57a1980800000000000000
+      internalID: -8567405966485533448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
