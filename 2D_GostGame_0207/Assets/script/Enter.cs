@@ -5,7 +5,12 @@ using UnityEngine.SceneManagement;
 
 public class Enter : MonoBehaviour
 {
-    
+    public SceneManager newScene;
+
+    private void Awake()
+    {
+       
+    }
     // Start is called before the first frame update
     void Start()
     {
@@ -13,7 +18,8 @@ public class Enter : MonoBehaviour
     }
     public void CangeScene()
     {
-        SceneManager.LoadScene("廊道");
+        SceneManager.LoadScene("");
+       
     }
 
 
