@@ -1,5 +1,9 @@
 ﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.EventSystems;
+
+
+    
 
 public class Player : MonoBehaviour
 {
@@ -13,7 +17,7 @@ public class Player : MonoBehaviour
     private Rigidbody2D rb;
     private Animator ani;
 
-    public EventTrigger Eve ;
+    public EventTrigger Eve;
 
 
     //private SpriteRenderer spr;
@@ -28,9 +32,9 @@ public class Player : MonoBehaviour
         //圖片名稱 = 取得元件<圖片控制>()
         //spr = GetComponent<SpriteRenderer>();
 
-         Eve = GetComponent<EventTrigger>();
+        Eve = GetComponent<EventTrigger>();
 
-        
+
 
     }
 
@@ -43,7 +47,7 @@ public class Player : MonoBehaviour
         ani.SetFloat("Vertical", movement.y);
         ani.SetFloat("Speed", movement.sqrMagnitude);
 
-        
+
     }
 
     private void FixedUpdate()
@@ -58,16 +62,16 @@ public class Player : MonoBehaviour
         if (coll.gameObject.tag == "Enter")
         {
             coll.gameObject.transform.GetComponent<Enter>().CangeScene();
-            coll.gameObject.transform.GetComponent<Enter1>().CangeScene();
+            
         }
 
         if (coll.gameObject.name == "櫃台")
         {
-            
+
         }
     }
 
-    
+
 
 
 
@@ -75,3 +79,4 @@ public class Player : MonoBehaviour
 
     #endregion
 }
+    

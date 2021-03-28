@@ -55,3 +55,11 @@ Update Mode: updateDependencies
 
 The following packages were updated:
   com.unity.2d.pixel-perfect from version 2.0.4 to 2.1.0
+
+=== Sun Mar 28 14:14:00 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.ext.nunit@1.0.0

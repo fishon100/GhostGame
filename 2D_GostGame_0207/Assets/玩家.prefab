@@ -99,6 +99,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movespeed: 5
+  Eve: {fileID: 0}
 --- !u!70 &6398096957582565933
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
